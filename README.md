@@ -1,11 +1,10 @@
-## Olá! Eu sou o Gabriel Augusto
+## Olá! Seja bem vindo ao meu perfil
  <div>
   <a href="https://github.com/Gaazedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaazedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaazedo&layout=compact&langs_count=16&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
- ## Principal Linguagens:
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sql Server" height="30" width="40" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c.svg">
